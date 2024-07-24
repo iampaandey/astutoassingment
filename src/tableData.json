@@ -1,0 +1,63 @@
+[
+    {
+      "select": false,
+      "name": "John Doe",
+      "status": "Active",
+      "role": "Product Manager",
+      "email": "john.doe@example.com",
+      "teams": ["Team A", "Team B", "Team C", "Team D"]
+    },
+    {
+      "select": false,
+      "name": "Robert John",
+      "status": "Inactive",
+      "role": "Developer",
+      "email": "jane.smith@example.com",
+      "teams": ["Team A", "Team C"]
+    },
+    {
+      "select": false,
+      "name": "Robert Bon",
+      "status": "Inactive",
+      "role": "Developer",
+      "email": "jane.smith@example.com",
+      "teams": ["Team A", "Team C"]
+    },
+    {
+        "select": false,
+        "name": "Robert Won",
+        "status": "Inactive",
+        "role": "Developer",
+        "email": "jane.smith@example.com",
+        "teams": ["Team A", "Team C"]
+      },{
+        "select": false,
+        "name": "Robert Wion",
+        "status": "Inactive",
+        "role": "Developer",
+        "email": "jane.smith@example.com",
+        "teams": ["Team A", "Team C"]
+      },{
+        "select": false,
+        "name": "Albert John",
+        "status": "Inactive",
+        "role": "Developer",
+        "email": "jane.smith@example.com",
+        "teams": ["Team A", "Team C"]
+      },{
+        "select": false,
+        "name": "Warner John",
+        "status": "Inactive",
+        "role": "Developer",
+        "email": "jane.smith@example.com",
+        "teams": ["Team A", "Team C"]
+      },{
+        "select": false,
+        "name": "Sussane John",
+        "status": "Inactive",
+        "role": "Developer",
+        "email": "jane.smith@example.com",
+        "teams": ["Team A", "Team C"]
+      }
+  ]
+  

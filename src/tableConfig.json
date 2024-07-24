@@ -1,0 +1,58 @@
+{
+    "columns": [
+      {
+        "accessorKey": "select",
+        "header": "",
+        "enableSorting": false,
+        "enableColumnActions": false,
+        "type": "checkbox"
+      },
+      {
+        "accessorKey": "name",
+        "header": "Name",
+        "enableSorting": false,
+        "enableColumnActions": false,
+        "type": "nameWithAvatar"
+      },
+      {
+        "accessorKey": "status",
+        "header": "Status",
+        "enableSorting": false,
+        "enableColumnActions": false,
+        "type": "status"
+      },
+      {
+        "accessorKey": "role",
+        "header": "Role",
+        "enableSorting": false,
+        "enableColumnActions": false
+      },
+      {
+        "accessorKey": "email",
+        "header": "Email",
+        "enableSorting": false,
+        "enableColumnActions": false
+      },
+      {
+        "accessorKey": "teams",
+        "header": "Teams",
+        "enableSorting": false,
+        "enableColumnActions": false,
+        "type": "teams"
+      },
+      {
+        "accessorKey": "select1",
+        "header": "",
+        "enableSorting": false,
+        "enableColumnActions": false,
+        "type": "checkbox"
+      },{
+        "accessorKey": "select2",
+        "header": "",
+        "enableSorting": false,
+        "enableColumnActions": false,
+        "type": "checkbox"
+      }
+    ]
+  }
+  
